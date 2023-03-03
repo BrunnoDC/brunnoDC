@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Brunno Duarte
 
-- 🌱 estudando Vue.js
-- 😄 Pronouns: ele/dele
+- 🌱 estudando reatc native
 
 <div align="center">
   <a href="https://github.com/BrunnoDC">
