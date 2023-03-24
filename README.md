@@ -15,6 +15,9 @@
   <img align="center" alt="bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="bru-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="Django" height="30" width="40" src="https://icongr.am/devicon/django-original.svg?size=128&color=currentColor" />
+  <img align="center" alt="MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-original.svg?size=128&color=currentColor" />
   
 </div>
 
