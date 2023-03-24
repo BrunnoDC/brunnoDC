@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Brunno Duarte
 
-- 🌱 estudando reatc native
+- 🌱 estudando reatc native and django
 
 <div align="center">
   <a href="https://github.com/BrunnoDC">
